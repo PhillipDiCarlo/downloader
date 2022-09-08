@@ -1,4 +1,4 @@
-# MeTube
+# Video Downloader
 
 ![Build Status](https://github.com/alexta69/metube/actions/workflows/main.yml/badge.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/alexta69/metube.svg)
